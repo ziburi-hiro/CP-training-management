@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394218635276",
+    "project_id": "training-managementapp",
+    "storage_bucket": "training-managementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394218635276:android:b6c537d9d3a29beb0c2e29",
+        "android_client_info": {
+          "package_name": "com.example.training_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPlL-_2k4O6t_SQSETSGfBqWzQhUrdZIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
