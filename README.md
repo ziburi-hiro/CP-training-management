@@ -1,16 +1,33 @@
-# training_management
+## ①課題番号-プロダクト名
+筋トレ管理アプリ
 
-A new Flutter project.
+## ②課題内容（どんな作品か）
 
-## Getting Started
+- 筋トレ管理アプリをflutter(Dart)で実装
+- 具体的なCodeはlib直下に置いてあります
+- ユーザ情報の登録、サインインをFireBaseで実装
 
-This project is a starting point for a Flutter application.
+## ③DEMO
+- ネイティブアプリなので動画をアップします
 
-A few resources to get you started if this is your first Flutter project:
+## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ID: 今回なし
+- PW: 今回なし
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⑤工夫した点・こだわった点
+
+- ユーザ登録、ログイン、ログアウトはできるようにしている
+- シンプルなUIを心がけている
+- 登録の際に入力した情報が出るようにしている
+
+## ⑥難しかった点・次回トライしたいこと(又は機能)
+
+- カレンダーを表示してそこに筋トレしたら記録が出るようにしたかったがうまくいかなかった
+- 筋トレ記録を追加ボタンを押した際にどんな筋トレをしたかの記録をできるページまで作れなかった（時間がなかったです。。）
+
+## ⑦質問・疑問・感想、シェアしたいこと等なんでも
+
+- [質問] 特になし
+- [感想] 今回JavaScriptではなくFlutterで実装したが、慣れもあるのか実装しやすく、見栄えもそれっぽくできた
+- [参考記事]
